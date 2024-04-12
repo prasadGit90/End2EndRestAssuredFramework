@@ -7,6 +7,7 @@ This repository contains a comprehensive End-to-End (E2E) testing framework buil
 -	IDE: Eclipse
 -	Programming Language: Java
 -	Dependencies: Rest Assured, TestNG, log4j, extentreports
+  
 **Features:**
 =============
 - Logging: Implementing log4j for comprehensive logging.
@@ -14,6 +15,7 @@ This repository contains a comprehensive End-to-End (E2E) testing framework buil
 -  API Chaining: Ability to chain multiple API requests for end-to-end testing      
 -  E2E Execution: Execution of tests using Maven (pom.xml) and TestNG (testng.xml).
 -  Modular Framework Structure: Organized into distinct packages and classes for better maintainability and scalability.
+  
 **Usage:**
 ==========
 Steps:
