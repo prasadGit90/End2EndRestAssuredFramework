@@ -40,5 +40,3 @@ Steps:
 To execute tests, use the following command:
 mvn clean test
 
-
-![image](https://github.com/prasadGit90/End2EndRestAssuredFramework/assets/108676668/ca3e6291-a7b4-46e9-8527-abcffd874d57)
